@@ -1,0 +1,71 @@
+#main {
+     background-image: url(/pc.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-color: rgba(11, 68, 241, 0.645);
+     background-blend-mode: hard-light;
+}
+
+
+#card {
+     height: 17em;
+     margin-bottom: 1.5em;
+     border-style: none;
+}
+
+#thumb_up {
+     font-size: 42px;
+}
+
+#storefront {
+     font-size: 42px;
+}
+
+#person_filled {
+     font-size: 42px;
+}
+
+.hr1{
+     width: 100%
+
+}
+
+
+
+
+ #ifm{
+     border:  1px solid;
+
+     width: 8em;
+     height: 8em;
+     
+}
+
+
+#hr1{
+     width: 20%;
+     margin: 0 auto;
+}
+
+#bgfooter{
+     height: 30em;
+     width: 100%;
+}
+#bottom{
+     bottom: -50em;
+}
+
+#bgimg{
+     background-image: url(footerbox.png); 
+     height: 300px;
+
+}
+
+
+
+
+#imgfooter{
+     width: 8rem;
+     height: 8rem;
+     border: 2px solid rgb(21, 96, 225);
+}
